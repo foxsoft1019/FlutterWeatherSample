@@ -2,7 +2,7 @@
 
 This is a project that acquires weather data from current location information.
 
-## Getting Started
+## Third-party libraries
 
 This project is a starting point for a Flutter application.
 
