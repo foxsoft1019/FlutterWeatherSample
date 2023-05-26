@@ -1,6 +1,6 @@
 # flutter_weather_sample
 
-A new Flutter project.
+This is a project that acquires weather data from current location information.
 
 ## Getting Started
 
